@@ -1,0 +1,117 @@
+h1 {
+    font-family: 'Chelsea Market', cursive; 
+      
+}
+
+body {
+    font-family: 'Gamja Flower', cursive;
+    font-weight: bold;
+    
+}
+
+header {
+    background-color: #e4572e;
+    text-align: center;
+    
+}
+
+main {
+    background-color: #fffff2;
+}
+
+.fresh {
+    color: white;
+}
+
+#Sanni {
+    padding-top: 10px;
+    text-shadow: 1.5px 1.5px #fffff2;
+}
+
+.firstbox {
+    position: relative;
+    margin:auto;
+    width: 58%;
+    border: 4px solid #050401;
+    box-shadow: 3px 3px 0 0 #e4572e;
+    margin-top: -10px;
+    padding-bottom: 60px;
+    
+}
+
+#Spatulas {
+    padding-left: 5px;
+    margin: 0;
+}
+
+#Monster {
+    padding-left: 5px;
+    margin: 0;
+}
+
+#fryspoon {
+    margin: auto;
+    position: absolute;
+    top: 50px;
+    right: 4%;
+}
+
+
+.articlebody1 {
+    padding-left: 5px;
+    max-width: 550px; 
+}
+
+.articlebody2 {
+    padding-left: 5px;
+    max-width: 470px; 
+}
+
+.secondbox {
+    position: relative;
+    border: 4px solid #050401;
+    box-shadow: 3px 3px 0 0 #e4572e;
+    margin: auto;
+    width: 58%;
+    margin-top: 10px;
+}
+
+#cookies {
+    margin: auto;
+    position: absolute;
+    right: 0.5%;
+    bottom: 1.5%;
+}
+
+hr {
+    margin-top: 35px;
+}
+
+footer {
+    text-align: center;
+}
+
+.mailinglist{
+    margin-top: -20px;
+
+}
+
+.form {
+    display: flex;
+    position: relative;
+    justify-content:space-between;
+    width: 36%;
+    margin:auto;
+    margin-top: -20px;
+    border-style: none;
+}
+
+#field {
+    border: 2.5px solid #9c9c99;
+    border-radius: 3px;
+    box-shadow: 1.5px 1.5px 0 0 #e4572e;
+}
+
+#copyright {
+    margin-top: -5px;
+}
